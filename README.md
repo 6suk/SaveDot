@@ -137,7 +137,7 @@
 |  | 고예림 | 최혜린 | 김예진 |
 | :---: | :---: | :---: | :---: |
 |  | <picture><img src="https://github.com/pie-sfac/1-13-pongDangPong/assets/110910042/6808128c-4d68-4d28-8cfb-9dbd2c6dffc4" width="210" ></picture> | <picture><img src="https://avatars.githubusercontent.com/u/116632714?v=4" width="210"></picture> | <picture><img src="https://avatars.githubusercontent.com/u/85606248?v=4" width="210"></picture> |
-| **메인** | **조각메이트<br>마이페이지<br>메인화면<br>얼마벌었지<br>배포** | **챌린지<br>사용자 인증<br>알뜰 정보<br>경제뉴스 / 환율** | **수입·지출<br>테스트 데이터 입력** |
+| **메인** | **조각메이트<br>마이페이지<br>메인화면<br>얼마벌었지<br>배포** | **챌린지<br>사용자 인증<br>알뜰 정보** | **수입·지출<br>테스트 데이터 입력** |
 | **서브** | **수입·지출** - 수정 / 삭제 기능<br>**챌린지** - 내가 아낀 비용 | **배포** | **조각메이트** - 댓글 / 좋아요 기능 |
 
 <br/><br/><br/><br/>
