@@ -17,7 +17,7 @@
 <picture><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></picture>
 <picture><img src="https://img.shields.io/badge/JSP-000000?style=for-the-badge&logo=JSP&logoColor=white"></picture>
 <picture><img src="https://img.shields.io/badge/JSTL-666666?style=for-the-badge&logo=JSTL&logoColor=white"></picture>
-<picture><img src="https://img.shields.io/badge/chartdotjs-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"></picture>
+<picture><img src="https://img.shields.io/badge/chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"></picture>
 <picture><img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></picture>
 <picture><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"></picture>
 
